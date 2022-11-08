@@ -31,5 +31,3 @@ def Barcode_Reader(image):
                
             # Print the barcode data
                 return(barcode.data,barcode.type)
-def Barcode_Generator():
-    pass
